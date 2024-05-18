@@ -8,9 +8,9 @@ Il est fortement recommandé de ramener des plats personnels et faits maison plu
 Pour tous ceux qui apprécient la gastronomie de leur pays ou région d'origine, c'est l'occasion idéale de ramener des plats pour faire partager les saveurs qui vous sont chères.
 
 
-<center>
-    <img src="[url](https://github.com/MunMaks/GECC-2024/blob/main/Challenge_2/creme.jpg)" alt="image">
-</center>
+<p align="center">
+  <img src="https://github.com/MunMaks/GECC-2024/blob/main/Challenge_2/creme.jpg" alt="image" width="200" height="200">
+</p>
 
 
 Ainsi, la décision est prise, vous vous êtes mis en tête de faire une véritable mayonnaise maison. Cette mayonnaise à la fois ferme, onctueuse au goût lisse et aux saveurs bien diffuses.
