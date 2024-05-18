@@ -26,9 +26,12 @@ Cet équilibre entre ordre et désordre, un coté aléatoire et structuré de la
 il vous faut estimer son facteur de coagulation.
 
 
-![image](https://github.com/MunMaks/GECC-2024/assets/98954111/75c4c6b4-03e2-4aca-bbda-5a831fe674f2)
-![image](https://github.com/MunMaks/GECC-2024/assets/98954111/9f4b8b06-46aa-4640-abe1-dfba180f7c87)
-![image](https://github.com/MunMaks/GECC-2024/assets/98954111/742145da-0112-453e-99ff-85180591daaf)
+<div align="center">
+  <img src="https://github.com/MunMaks/GECC-2024/blob/main/Challenge_2/first.png" alt="image1" width="200" height="200">
+  <img src="https://github.com/MunMaks/GECC-2024/blob/main/Challenge_2/second.png" alt="image2" width="200" height="200">
+  <img src="https://github.com/MunMaks/GECC-2024/blob/main/Challenge_2/third.png" alt="image3" width="200" height="200">
+</div>
+
 
 
 La structure de la matière est mise en relief grace à une coloration à 9 couleurs différentes identifiées par un entier positif de 1 à 9.
