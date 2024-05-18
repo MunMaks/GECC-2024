@@ -9,7 +9,7 @@ Pour tous ceux qui apprécient la gastronomie de leur pays ou région d'origine,
 
 
 <center>
-    <img src="[url](https://github.com/MunMaks/GECC-2024/Challenge_2/creme.jpg)" alt="image">
+    <img src="[url](https://github.com/MunMaks/GECC-2024/blob/main/Challenge_2/creme.jpg)" alt="image">
 </center>
 
 
