@@ -7,8 +7,11 @@ Mais la factorielle de 26, c'est déjà énorme et tester toutes les permutation
 Le message est en langue française et utilise toutes les lettres de l'alphabet latin. Sans plus d'information, vous devez déchiffrer votre message personnel.
 Les caractères autres que les lettres minuscules (espaces, tirets et retours à la ligne) restent inchangés durant chiffrage et déchiffrage.
 
-
-![image](https://github.com/MunMaks/GECC-2024/assets/98954111/039b697c-3e5c-47ed-895a-b2dc60aa370e)
+<br>
+<div align="center">
+  <img src="https://github.com/MunMaks/GECC-2024/blob/main/Challenge_1/machine.jpg" alt="image1" width="550" height="330">
+</div>
+<br>
 
 Imaginons un instant que votre message chiffré soit le suivant :
 ```
